@@ -5,7 +5,7 @@ url: 'https://nasacom1005.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
-# disable_landing_page: true
+disable_landing_page: false
 
 author:
   name: 'https://nasacom1005.github.io'
